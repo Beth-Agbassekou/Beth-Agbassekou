@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+<h2> Certifications:</h2>
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active directory Home Lab]()
 
