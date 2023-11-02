@@ -1,12 +1,20 @@
-<h1>Hi, I'm Beth! <br/><a href="https://github.com/joshmadakor1">Student</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Beth! <br/><a href="https://github.com/Beth-Agbassekou">Student</a>, <a href="(https://www.linkedin.com/in/beth-agbassekou/)">Cybersecurity Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>☺</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<h2> Certifications:</h2>
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active directory Home Lab]()
 
+<h2> Certifications:</h2>
 
 <h2>📺 Popular YouTube Videos</h2>
 
