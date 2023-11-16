@@ -1,5 +1,7 @@
 <h1>Hi, I'm Beth! <br/><a href="https://github.com/Beth-Agbassekou">Student</a>, <a href="(https://www.linkedin.com/in/beth-agbassekou/)">Cybersecurity Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>☺</h1>
-![1000008000](https://github.com/Beth-Agbassekou/Beth-Agbassekou/assets/148320585/a2799652-fda4-44a0-af47-e1345204d984)
+<p align="center">
+<img src="[https://github.com/Beth-Agbassekou/Beth-Agbassekou/assets/148320585/a2799652-fda4-44a0-af47-e1345204d984)" alt="Microsoft Active Directory Logo"/>
+</p>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
