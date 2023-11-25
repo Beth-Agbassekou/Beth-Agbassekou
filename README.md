@@ -1,6 +1,6 @@
 <h1>Hi, I'm Beth! <br/><a href="https://github.com/Beth-Agbassekou">Student</a>, <a href="(https://www.linkedin.com/in/beth-agbassekou/)">Cybersecurity Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>☺</h1>
 <p align="center">
-<img src="(https://github.com/Beth-Agbassekou/Beth-Agbassekou/assets/148320585/a2799652-fda4-44a0-af47-e1345204d984)" alt="Image Beth Agbassekou" width= "200"/>
+<img src="(https://github.com/Beth-Agbassekou/Beth-Agbassekou/assets/148320585/a2799652-fda4-44a0-af47-e1345204d984)" alt="Image Beth Agbassekou" width= "300"/>
 </p>
 
 
@@ -12,11 +12,11 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Beth-Agbassekou/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Beth-Agbassekou/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Beth-Agbassekou/azure-network-protocols)
 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active directory Home Lab]()
+  - [Active directory Home Lab](https://github.com/Beth-Agbassekou/AD_PS)
 
 <h2> Certifications:</h2>
 
